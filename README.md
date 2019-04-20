@@ -1,5 +1,5 @@
 # STUDY-ServerPush
-Study note for server push.
+Study notes for server push.
 
 ## A. Comet Server Push
 1. 在 Client Request 後，與 Server 保持持久連結，以方便 Server 在連結期間主動傳遞資料。
